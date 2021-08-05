@@ -1,0 +1,374 @@
+﻿,ICAO,Name,Number,IATA,Geo,Municipality,Size,Elevation,Longest runway,2018 Passengers,Country
+0,KATL,Hartsfield-Jackson Atlanta International Airport,1,ATL, N333812 W0842541,Atlanta,Large airport,1 026,3 776,107394029,United States
+3,KLAX,Los Angeles International Airport,1,LAX, N335633 W1182429,Los Angeles,Large airport,128,3 939,87534384,United States
+5,KORD,O'Hare International Airport,1,ORD, N415843 W0875417,Chicago,Large airport,668,3 962,83339186,United States
+14,KDFW,Dallas/Fort Worth International Airport,1,DFW, N325349 W0970332,Dallas-Fort Worth,Large airport,607,4 085,69112607,United States
+19,KDEN,Denver International Airport,2,DEN, N395142 W1044023,Denver,Large airport,5 431,3 658,64494613,United States
+21,KJFK,John F. Kennedy International Airport,1,JFK, N403823 W0734644,New York,Large airport,13,4 423,61909148,United States
+24,KSFO,San Francisco International Airport,2,SFO, N373708 W1222230,San Francisco,Large airport,13,3 618,57793313,United States
+28,KSEA,Seattle-Tacoma International Airport,1,SEA, N472656 W1221832,Seattle,Large airport,433,3 627,49849520,United States
+29,KLAS,McCarran International Airport,1,LAS, N360448 W1150907,Las Vegas,Large airport,2 181,4 423,49716584,United States
+33,KMCO,Orlando International Airport,1,MCO, N282546 W0811832,Orlando,Large airport,96,3 659,47696627,United States
+36,KCLT,Charlotte Douglas International Airport,1,CLT, N351250 W0805635,Charlotte,Large airport,748,3 048,46444380,United States
+39,KEWR,Newark Liberty International Airport,1,EWR, N404133 W0741007,Newark,Large airport,18,3 353,46065175,United States
+42,KMIA,Miami International Airport,1,MIA, N254736 W0801726,Miami,Large airport,9,3 967,45044312,United States
+43,KPHX,Phoenix Sky Harbor International Airport,1,PHX, N332603 W1120043,Phoenix,Large airport,1 135,3 502,44943686,United States
+46,KIAH,George Bush Intercontinental Airport,1,IAH, N295904 W0952029,Houston,Large airport,97,3 658,43807539,United States
+55,KBOS,Logan International Airport,1,BOS, N422147 W0710023,Boston,Large airport,20,3 073,38412419,United States
+57,KMSP,Minneapolis-Saint Paul International Airport,1,MSP, N445255 W0931318,Minneapolis,Large airport,841,3 355,38034341,United States
+60,KDTW,Detroit Metropolitan Airport,1,DTW, N421245 W0832112,Detroit,Large airport,645,3 659,34701094,United States
+62,KFLL,Fort Lauderdale-Hollywood International Airport,1,FLL, N260421 W0800910,Fort Lauderdale,Large airport,9,2 743,32511053,United States
+68,KPHL,Philadelphia International Airport,1,PHL, N395548 W0750441,Philadelphia,Large airport,36,3 202,29585754,United States
+70,KLGA,LaGuardia Airport,1,LGA, N404638 W0735221,New York,Large airport,21,2 134,29348423,United States
+85,KBWI,Baltimore-Washington International Airport,1,BWI, N391500 W0764006,Baltimore,Large airport,146,3 201,26370344,United States
+97,KSLC,Salt Lake City International Airport,1,SLC, N404718 W1115841,Salt Lake City,Large airport,4 227,3 658,24199351,United States
+101,KDCA,Ronald Reagan Washington National Airport,1,DCA, N385108 W0770216,Washington,Large airport,15,2 185,23998672,United States
+110,KIAD,Washington Dulles International Airport,1,IAD, N385640 W0772721,Washington,Large airport,313,3 505,22790592,United States
+111,KMDW,Midway International Airport,1,MDW, N414710 W0874509,Chicago,Large airport,620,1 988,22460236,United States
+112,KSAN,San Diego International Airport,1,SAN, N324401 W1171124,San Diego,Large airport,17,2 865,22174767,United States
+124,KTPA,Tampa International Airport,1,TPA, N275832 W0823200,Tampa,Large airport,26,3 353,19624284,United States
+127,PHNL,Daniel K. Inouye International Airport,1,HNL, N211907 W1575523,Honolulu,Large airport,13,3 753,19312680,United States
+128,KPDX,Portland International Airport,1,PDX, N453519 W1223553,Portland,Large airport,30,3 353,19080354,United States
+150,KDAL,Dallas Love Field,1,DAL, N325050 W0965106,Dallas,Large airport,487,2 682,15723627,United States
+155,KSTL,Lambert-St. Louis International Airport,1,STL, N384450 W0902141,St Louis,Large airport,605,3 359,14730656,United States
+159,KBNA,Nashville International Airport,1,BNA, N360736 W0864055,Nashville,Large airport,599,3 362,14133913,United States
+161,KAUS,Austin-Bergstrom International Airport,1,AUS, N301140 W0974012,Austin,Large airport,542,3 734,13889305,United States
+168,KHOU,William P. Hobby Airport,1,HOU, N293844 W0951644,Houston,Large airport,46,2 317,13435670,United States
+170,KOAK,Oakland International Airport,1,OAK, N374317 W1221316,Oakland,Large airport,9,3 206,13072245,United States
+179,KSJC,San Jose International Airport,1,SJC, N372146 W1215544,San Jose,Large airport,62,3 353,12441556,United States
+183,KMSY,Louis Armstrong New Orleans International Airport,1,MSY, N295936 W0901529,New Orleans,Large airport,4,3 080,11993833,United States
+188,KRDU,Raleigh-Durham International Airport,1,RDU, N355240 W0784715,Raleigh/Durham,Large airport,435,3 048,11668923,United States
+189,KMCI,Kansas City International Airport,1,MCI, N391751 W0944250,Kansas City,Large airport,1 026,3 292,11497119,United States
+200,KSMF,Sacramento International Airport,1,SMF, N384144 W1213528,Sacramento,Large airport,27,2 623,10912079,United States
+204,KSNA,John Wayne Airport,1,SNA, N334032 W1175205,Santa Ana,Large airport,56,1 738,10423578,United States
+220,KCLE,Cleveland Hopkins International Airport,1,CLE, N412442 W0815059,Cleveland,Airport,791,3 034,9140318,United States
+221,KSAT,San Antonio International Airport,1,SAT, N293136 W0982819,San Antonio,Large airport,809,2 592,9063542,United States
+223,KPIT,Pittsburgh International Airport,1,PIT, N402929 W0801358,Pittsburgh,Large airport,1 204,3 505,8988016,United States
+226,KRSW,Southwest Florida International Airport,1,RSW, N263210 W0814519,Fort Myers,Large airport,30,3 658,8842549,United States
+227,KIND,Indianapolis International Airport,1,IND, N394302 W0861740,Indianapolis,Large airport,797,3 414,8739835,United States
+246,KCVG,Cincinnati/Northern Kentucky International Airport,1,CVG, N390256 W0844004,Cincinnati,Large airport,896,3 658,7843597,United States
+253,KCMH,Port Columbus International Airport,1,CMH, N395953 W0825331,Columbus,Large airport,815,3 086,7547684,United States
+270,KMKE,General Mitchell International Airport,1,MKE, N425650 W0875348,Milwaukee,Large airport,729,3 045,6904670,United States
+277,PHOG,Kahului Airport,1,OGG, N205355 W1562552,Kahului,Large airport,54,2 132,6705626,United States
+287,KBDL,Bradley International Airport,1,BDL, N415621 W0724100,Hartford,Large airport,173,2 899,6436407,United States
+294,KPBI,Palm Beach International Airport,1,PBI, N264059 W0800544,West Palm Beach,Large airport,19,3 048,6322452,United States
+314,KJAX,Jacksonville International Airport,1,JAX, N302939 W0814116,Jacksonville,Large airport,30,3 048,5591886,United States
+331,PANC,Ted Stevens Anchorage International Airport,1,ANC, N611027 W1495953,Anchorage,Airport,151,3 780,5028775,United States
+333,KABQ,Albuquerque International Sunport,1,ABQ, N350221 W1063640,Albuquerque,Airport,5 355,3 048,4947942,United States
+340,KBUR,Bob Hope Airport,1,BUR, N341202 W1182132,Burbank,Airport,778,2 099,4738459,United States
+344,KOMA,Eppley Airfield,1,OMA, N411804 W0955343,Omaha,Airport,984,2 896,4611994,United States
+345,KBUF,Buffalo Niagara International Airport,1,BUF, N425626 W0784356,Buffalo,Large airport,728,2 691,4606458,United States
+346,KONT,Ontario International Airport,1,ONT, N340322 W1173604,Ontario,Airport,944,3 718,4552225,United States
+371,KMEM,Memphis International Airport,1,MEM, N350233 W0895836,Memphis,Airport,341,3 389,4196264,United States
+381,KRNO,Reno-Tahoe International Airport,1,RNO, N392957 W1194605,Reno,Airport,4 415,3 353,4007472,United States
+383,KCHS,Charleston International Airport,1,CHS, N325355 W0800226,Charleston,Airport,46,2 135,3990848,United States
+385,KPVD,T. F. Green Airport,1,PVD, N414326 W0712542,Providence,Airport,55,2 184,3937947,United States
+386,KOKC,Will Rogers World Airport,1,OKC, N352335 W0973630,Oklahoma City,Airport,1 295,2 377,3927335,United States
+393,KLGB,Long Beach Airport,1,LGB, N334904 W1180907,Long Beach,Airport,60,3 049,3737571,United States
+394,KRIC,Richmond International Airport,1,RIC, N373018 W0771910,Richmond,Airport,167,2 744,3657479,United States
+400,KGEG,Spokane International Airport,1,GEG, N473712 W1173202,Spokane,Airport,2 385,3 353,3550912,United States
+403,KBOI,Boise Airport,1,BOI, N433352 W1161323,Boise,Airport,2 871,,3513377,United States
+406,KSDF,Louisville International Airport,1,SDF, N381027 W0854411,Louisville,Airport,501,3 623,3472028,United States
+409,KTUS,Tucson International Airport,1,TUS, N320658 W1105628,Tucson,Airport,2 643,3 352,3433515,United States
+411,KORF,Norfolk International Airport,1,ORF, N365341 W0761204,Norfolk,Airport,27,2 744,3380902,United States
+430,PHKO,Kona International Airport,1,KOA, N194420 W1560246,Kailua/Kona,Airport,47,3 353,3139204,United States
+454,KELP,El Paso International Airport,1,ELP, N314826 W1062241,El Paso,Airport,3 958,3 664,2928159,United States
+455,KSFB,Orlando Sanford International Airport,1,SFB, N284640 W0811415,Orlando,Airport,55,3 353,2922446,United States
+457,PHLI,Lihue Airport,1,LIH, N215834 W1592020,Lihue,Airport,153,1 981,2917880,United States
+469,KGRR,Gerald R. Ford International Airport,1,GRR, N425251 W0853122,Grand Rapids,Airport,794,3 048,2811622,United States
+470,KTUL,Tulsa International Airport,1,TUL, N361154 W0955317,Tulsa,Airport,677,3 048,2810537,United States
+476,KBHM,Birmingham-Shuttlesworth International Airport,1,BHM, N333350 W0864508,Birmingham,Large airport,650,3 657,2705014,United States
+491,KDSM,Des Moines International Airport,1,DSM, N413202 W0933947,Des Moines,Airport,958,2 744,2578308,United States
+507,KSAV,Savannah/Hilton Head International Airport,1,SAV, N320739 W0811208,Savannah,Airport,50,,2462881,United States
+511,KROC,Greater Rochester International Airport,1,ROC, N430708 W0774021,Rochester,Airport,559,2 439,2419064,United States
+516,KALB,Albany International Airport,1,ALB, N424457 W0734807,Albany,Airport,285,2 591,2393506,United States
+533,KMYR,Myrtle Beach International Airport,1,MYR, N334047 W0785542,Myrtle Beach,Airport,25,,2277044,United States
+555,KGSP,Greenville-Spartanburg International Airport,1,GSP, N345344 W0821308,Greenville,Airport,964,3 353,2130887,United States
+559,KPSP,Palm Springs International Airport,1,PSP, N334947 W1163025,Palm Springs,Airport,476,3 048,2100072,United States
+580,KLIT,Clinton National Airport,1,LIT, N344346 W0921329,Little Rock,Airport,266,,2029309,United States
+587,KTYS,McGhee Tyson Airport,1,TYS, N354840 W0835938,Knoxville,Airport,981,2 745,1987124,United States
+589,KSYR,Syracuse Hancock International Airport,1,SYR, N430640 W0760623,Syracuse,Airport,421,,1983326,United States
+591,KMHT,Manchester-Boston Regional Airport,1,MHT, N425557 W0712608,Manchester,Airport,266,2 819,1970688,United States
+612,KPIE,St. Pete-Clearwater International Airport,1,PIE, N275436 W0824115,St Petersburg-Clearwater,Airport,11,,1831344,United States
+619,KMSN,Dane County Regional Airport,1,MSN, N430823 W0892015,Madison,Airport,887,2 745,1806310,United States
+629,KPWM,Portland International Jetport,1,PWM, N433846 W0701833,Portland,Airport,76,2 195,1772686,United States
+635,KGSO,Piedmont Triad International Airport,1,GSO, N360552 W0795614,Greensboro,Airport,926,,1720248,United States
+638,KPNS,Pensacola International Airport,,PNS, N302824 W0871112,Pensacola,Airport,121,,1704132,United States
+648,KILM,Wilmington International Airport,1,ILM, N341614 W0775409,Wilmington,Airport,32,,1635792,United States
+654,KICT,Wichita Dwight D. Eisenhower National Airport,1,ICT, N373900 W0972559,Wichita,Airport,1 333,3 140,1620266,United States
+666,KHPN,Westchester County Airport,1,HPN, N410401 W0734227,White Plains,Airport,439,1 996,1541100,United States
+698,KXNA,Northwest Arkansas Regional Airport,1,XNA, N361654 W0941828,Fayetteville/Springdale,Airport,1 287,,1438922,United States
+715,KIWA,Phoenix-Mesa Gateway Airport,1,AZA, N331828 W1113922,Phoenix,Airport,1 384,3 109,1361366,United States
+725,KISP,Long Island MacArthur Airport,1,ISP, N404743 W0730601,Islip,Airport,99,2 135,1325224,United States
+728,KCOS,Colorado Springs Airport,1,COS, N384821 W1044204,Colorado Springs,Large airport,6 187,4 115,1316636,United States
+729,KMDT,Harrisburg International Airport,1,MDT, N401135 W0764548,Harrisburg,Airport,310,,1315300,United States
+740,KBTV,Burlington International Airport,1,BTV, N442819 W0730912,Burlington,Airport,335,2 536,1281580,United States
+741,PHTO,Hilo International Airport,1,ITO, N194313 W1550253,Hilo,Airport,38,1 707,1281514,United States
+744,KLEX,Blue Grass Airport,1,LEX, N380211 W0843621,Lexington,Airport,979,2 135,1276632,United States
+748,KCAK,Akron-Canton Airport,,CAK,,Akron,Airport,1 228,2 317,1265844,United States
+766,KACY,Atlantic City International Airport,1,ACY, N392727 W0743438,Atlantic City,Airport,75,1 873,1207273,United States
+777,KSRQ,Sarasota-Bradenton International Airport,1,SRQ, N272344 W0823316,Sarasota/Bradenton,Airport,30,,1181332,United States
+797,KPGD,Punta Gorda Airport (Florida),1,PGD, N265508 W0815927,Punta Gorda,Airport,26,,1116964,United States
+803,KCID,The Eastern Iowa Airport,,CID, N415305 W0914239,Cedar Rapids,Airport,869,2 622,1095572,United States
+813,PAFA,Fairbanks International Airport,1,FAI, N644854 W1475122,Fairbanks,Airport,439,3 597,1077762,United States
+814,KCAE,Columbia Metropolitan Airport,1,CAE, N335620 W0810710,Columbia,Airport,236,2 439,1077188,United States
+822,KHSV,Huntsville International Airport,1,HSV, N344110 W0864630,Huntsville,Airport,629,,1055602,United States
+829,KPHF,Newport News/Williamsburg International Airport,1,PHF, N370755 W0762935,Newport News,Airport,42,2 439,1039812,United States
+833,KDAY,Dayton International Airport,1,DAY, N395408 W0841310,Dayton,Airport,1 009,3 322,1035263,United States
+850,KSGF,Springfield-Branson National Airport,,SGF, N371444 W0932319,Springfield,Airport,1 268,2 438,993129,United States
+862,KMAF,Midland International Air and Space Port,1,MAF, N315633 W1021207,Midland,Airport,2 871,1 404,942980,United States
+875,KJAN,Jackson-Evers International Airport,1,JAN, N321840 W0900433,Jackson,Airport,346,2 591,913549,United States
+884,KLBB,Lubbock Preston Smith International Airport,1,LBB, N333949 W1014916,Lubbock,Airport,3 282,,896186,United States
+892,KBZN,Bozeman Yellowstone International Airport,1,BZN, N454637 W1110907,Bozeman,Airport,4 473,2 741,885576,United States
+893,KVPS,Destin-Fort Walton Beach Airport,1,VPS, N302900 W0863131,Valparaiso,Airport,87,3 654,880004,United States
+896,KECP,Northwest Florida Beaches International Airport,1,ECP, N302130 W0854744,Panama City Beach,Airport,69,,868604,United States
+897,KEUG,Eugene Airport,1,EUG, N440723 W1231308,Eugene,Airport,374,2 441,868190,United States
+906,PAJN,Juneau International Airport,1,JNU, N582118 W1343434,Juneau,Airport,25,2 700,840884,United States
+916,KFAR,Hector International Airport,1,FAR, N465514 W0964857,Fargo,Airport,902,2 744,807572,United States
+918,KBLI,Bellingham International Airport,1,BLI, N484733 W1223213,Bellingham,Airport,170,2 042,796736,United States
+919,KFNT,Bishop International Airport,,FNT, N425756 W0834437,Flint,Airport,782,2 392,795941,United States
+922,KFAT,Fresno Yosemite International Airport,1,FAT, N364636 W1194308,Fresno,Airport,336,2 907,784852,United States
+926,KBIL,Billings Logan International Airport,1,BIL, N454828 W1083235,Billings,Airport,3 652,1 677,774736,United States
+931,KEYW,Key West International Airport,1,EYW, N243322 W0814534,Key West,Airport,3,,761010,United States
+941,KGPT,Gulfport-Biloxi International Airport,,GPT, N302426 W0890412,Gulfport,Airport,28,,739194,United States
+949,KMLI,Quad City International Airport,1,MLI, N412655 W0903027,Moline,Airport,590,1 529,728786,United States
+950,KBTR,Baton Rouge Metropolitan Airport,1,BTR, N303158 W0910900,Baton Rouge,Airport,70,2 286,728400,United States
+957,KFWA,Fort Wayne International Airport,1,FWA, N405842 W0851143,Fort Wayne,Airport,814,,720738,United States
+961,KFSD,Sioux Falls Regional Airport,,FSD, N433455 W0964431,Sioux Falls,Airport,1 430,,711878,United States
+963,KMFE,McAllen Miller International Airport,,MFE, N261033 W0981419,Mc Allen,Airport,107,,710448,United States
+973,KTLH,Tallahassee International Airport,,TLH, N302348 W0842101,Tallahassee,Airport,81,2 439,690808,United States
+976,KAVL,Asheville Regional Airport,1,AVL, N352620 W0823230,Asheville,Airport,2 165,2 439,685462,United States
+977,KDAB,Daytona Beach International Airport,1,DAB, N291105 W0810338,Daytona Beach,Airport,33,3 200,684990,United States
+995,KAMA,Rick Husband Amarillo International Airport,1,AMA, N351310 W1014222,Amarillo,Airport,3 607,4 115,669630,United States
+1001,KSBN,South Bend International Airport,1,SBN, N414230 W0861902,South Bend,Airport,799,,659914,United States
+1002,KSBA,Santa Barbara Municipal Airport,1,SBA, N342534 W1195024,Santa Barbara,Airport,13,1 845,659502,United States
+1009,KCRP,Corpus Christi International Airport,,CRP, N274613 W0973004,Corpus Christi,Airport,44,2 288,651630,United States
+1015,KGCN,Grand Canyon National Park Airport,,GCN, N355708 W1120849,Grand Canyon,Airport,6 609,2 743,638412,United States
+1019,KPSC,Tri-Cities Airport (Washington),,PSC, N461553 W1190708,Pasco,Airport,410,2 348,625830,United States
+1026,KPIA,General Wayne A. Downing Peoria International Airport,1,PIA, N403951 W0894136,Peoria,Airport,661,,614378,United States
+1027,KMFR,Rogue Valley International-Medford Airport,,MFR, N422227 W1225226,Medford,Airport,1 335,,612900,United States
+1032,KABE,Lehigh Valley International Airport,1,ABE, N403908 W0752625,Allentown,Airport,393,2 316,603938,United States
+1037,KMSO,Missoula International Airport,1,MSO, N465459 W1140528,Missoula,Airport,3 206,2 896,596506,United States
+1041,KGRB,Austin Straubel International Airport,1,GRB, N442905 W0880747,Green Bay,Airport,695,2 347,585736,United States
+1042,KCHA,Chattanooga Metropolitan Airport,,CHA, N350207 W0851214,Chattanooga,Airport,683,2 256,585660,United States
+1051,KMOB,Mobile Regional Airport,,MOB, N304129 W0881434,Mobile,Airport,219,,576418,United States
+1061,KRAP,Rapid City Regional Airport,,RAP, N440243 W1030325,Rapid City,Airport,3 204,2 652,568252,United States
+1069,KJAC,Jackson Hole Airport,1,JAC, N433626 W1104417,Jackson,Airport,6 451,1 920,548686,United States
+1071,KCRW,Yeager Airport,1,CRW, N382233 W0813535,Charleston,Airport,947,2 073,545802,United States
+1072,KAGS,Augusta Regional Airport,1,AGS, N332212 W0815752,Augusta,Airport,144,2 438,541594,United States
+1073,KATW,Appleton International Airport,1,ATW, N441715 W0882230,Appleton,Airport,918,2 439,541266,United States
+1074,KSHV,Shreveport Regional Airport,1,SHV, N322648 W0934932,Shreveport,Airport,258,2 545,540790,United States
+1076,KBGR,Bangor International Airport,1,BGR, N444826 W0684941,Bangor,Airport,192,3 487,538026,United States
+1080,KHRL,Valley International Airport,,HRL, N261222 W0973918,Harlingen,Airport,36,,527520,United States
+1095,KASE,Aspen-Pitkin County Airport,1,ASE, N391323 W1065208,Aspen,Airport,7 820,2 440,508784,United States
+1100,KFAY,Fayetteville Regional Airport,1,FAY, N345928 W0785249,Fayetteville,Airport,189,,488690,United States
+1109,KBIS,Bismarck Municipal Airport,,BIS, N464622 W1004446,Bismarck,Airport,1 661,,477858,United States
+1112,KRDM,Roberts Field,1,RDM, N441515 W1210900,Redmond,Airport,3 080,,472606,United States
+1128,KTVC,Cherry Capital Airport,,TVC, N444430 W0853456,Traverse City,Airport,624,2 103,447848,United States
+1133,KSWF,Stewart International Airport,,SWF, N413015 W0740617,Newburgh,Airport,491,,446020,United States
+1137,KMOT,Minot International Airport,,MOT, N481528 W1011641,Minot,Airport,1 716,,441574,United States
+1147,KGJT,Grand Junction Regional Airport,,GJT, N390721 W1083137,Grand Junction,Airport,4 858,,436638,United States
+1152,KAVP,Wilkes-Barre/Scranton International Airport,1,AVP, N412018 W0754324,Wilkes-Barre/Scranton,Airport,962,2 286,433072,United States
+1169,KLFT,Lafayette Regional Airport,1,LFT, N301219 W0915915,Lafayette,Airport,42,1 249,413334,United States
+1170,KGNV,Gainesville Regional Airport,1,GNV, N294124 W0821618,Gainesville,Airport,151,,412660,United States
+1173,KEVV,Evansville Regional Airport,,EVV, N380218 W0873151,Evansville,Airport,422,,408704,United States
+1177,KTRI,Tri-Cities Regional Airport,1,TRI, N362831 W0822427,Bristol/Johnson/Kingsport,Airport,1 519,2 438,404228,United States
+1188,KGPI,Glacier Park International Airport,1,FCA, N481838 W1141522,Kalispell,Airport,2 977,2 745,399402,United States
+1195,KCHO,Charlottesville-Albemarle Airport,,CHO, N380819 W0782710,Charlottesville,Airport,640,,395552,United States
+1204,KMRY,Monterey Regional Airport,1,MRY, N363513 W1215035,Monterey,Airport,257,2 268,384272,United States
+1214,KBMI,Central Illinois Regional Airport,,BMI, N402838 W0885457,Bloomington/Normal,Airport,871,,376980,United States
+1216,KDRO,Durango-La Plata County Airport,,DRO, N370905 W1074514,Durango,Airport,6 685,,375578,United States
+1226,KGTF,Great Falls International Airport,,GTF, N472858 W1112216,Great Falls,Airport,3 680,,364780,United States
+1231,KPHD,Harry Clever Field,,PHD, N402813 W0812512,New Philadelphia,Airport,894,,361239,United States
+1243,KMGM,Montgomery Regional Airport,,MGM, N321802 W0862338,Montgomery,Airport,221,,346420,United States
+1254,KOAJ,Albert J. Ellis Airport,,OAJ, N344945 W0773644,Jacksonville,Airport,94,2 164,335056,United States
+1255,KSTS,Charles M. Schulz-Sonoma County Airport,1,STS, N383032 W1224847,Santa Rosa,Airport,129,1 586,334302,United States
+1262,KEGE,Eagle County Regional Airport,1,EGE, N393833 W1065505,Eagle,Airport,6 547,2 743,327680,United States
+1264,KSBP,San Luis Obispo County Regional Airport,1,SBP, N351413 W1203831,San Luis Obispo,Airport,212,1 859,325438,United States
+1267,KLAN,Capital Region International Airport,1,LAN, N424643 W0843510,Lansing,Airport,861,2 593,323726,United States
+1274,KLNK,Lincoln Airport (Nebraska),,LNK, N405104 W0964533,Lincoln,Airport,1 219,3 932,321050,United States
+1282,KGRK,Killeen-Fort Hood Regional Airport,,GRK, N310402 W0974944,Fort Hood/Killeen,Airport,1 015,,314322,United States
+1285,PABE,Bethel Airport,1,BET, N604643 W1615013,Bethel,Airport,129,,311582,United States
+1286,KDLH,Duluth International Airport,,DLH, N465032 W0921137,Duluth,Airport,1 428,3 097,310910,United States
+1297,KPBG,Plattsburgh International Airport,,PBG, N443903 W0732805,Plattsburgh,Airport,234,,302470,United States
+1304,KGFK,Grand Forks International Airport,1,GFK, N475657 W0971034,Grand Forks,Airport,845,1 282,297326,United States
+1306,KTTN,Trenton-Mercer Airport,,TTN, N401636 W0744848,Trenton,Airport,212,,296512,United States
+1308,KAZO,Kalamazoo/Battle Creek International Airport,,AZO, N421406 W0853307,Kalamazoo,Airport,874,1 982,295038,United States
+1311,KIDA,Idaho Falls Regional Airport,1,IDA, N433049 W1120416,Idaho Falls,Airport,4 744,2 744,292426,United States
+1346,KUNV,University Park Airport,,SCE, N405057 W0775055,State College,Airport,1 239,2 042,262440,United States
+1351,KAEX,Alexandria International Airport (Louisiana),1,AEX, N311939 W0923255,Alexandria,Airport,89,2 850,259552,United States
+1352,KELM,Elmira/Corning Regional Airport,,ELM, N420936 W0765330,Elmira/Corning,Airport,954,2 439,259498,United States
+1355,PAKT,Ketchikan International Airport,1,KTN, N552115 W1314240,Ketchikan,Airport,92,,255762,United States
+1357,KLBE,Arnold Palmer Regional Airport,1,LBE, N401629 W0792424,Latrobe,Airport,1 199,,254800,United States
+1361,KACK,Nantucket Memorial Airport,,ACK, N411510 W0700332,Nantucket,Airport,48,1 921,252394,United States
+1376,KMBS,MBS International Airport,,MBS, N433158 W0840447,Saginaw,Airport,668,2 439,244938,United States
+1379,KEWN,Coastal Carolina Regional Airport,,EWN, N350423 W0770235,New Bern,Airport,6,,242958,United States
+1385,KBRO,Brownsville/South Padre Island International Airport,1,BRO, N255425 W0972533,Brownsville,Airport,22,,240302,United States
+1386,KCWA,Central Wisconsin Airport,,CWA, N444639 W0894000,Mosinee,Airport,1 277,2 331,238444,United States
+1395,KMTJ,Montrose Regional Airport,,MTJ, N383035 W1075338,Montrose,Airport,5 759,3 048,232544,United States
+1412,KRST,Rochester International Airport,,RST, N435430 W0923000,Rochester,Airport,1 317,2 753,220208,United States
+1415,KERI,Erie International Airport,,ERI, N420455 W0801034,Erie,Airport,733,1 981,219040,United States
+1416,KIFP,Laughlin/Bullhead International Airport,,IFP, N350922 W1143332,Bullhead City,Airport,701,,218668,United States
+1426,KHTS,Tri-State Airport,1,HTS, N382201 W0823331,Huntington,Airport,828,2 139,211096,United States
+1434,KBVU,Boulder City Municipal Airport,1,BLD, N355650 W1145136,,Airport,2 203,,207944,United States
+1436,KITH,Ithaca Tompkins Regional Airport,1,ITH, N422929 W0762731,Ithaca,Airport,1 099,,207444,United States
+1440,KMLU,Monroe Regional Airport (Louisiana),1,MLU, N323039 W0920216,Monroe,Airport,79,,204684,United States
+1441,KRFD,Chicago Rockford International Airport,1,RFD, N421143 W0890550,Chicago/Rockford,Airport,742,2 499,203580,United States
+1444,KLRD,Laredo International Airport,,LRD, N273238 W0992742,Laredo,Airport,508,1 807,202230,United States
+1445,KBFL,Meadows Field Airport,1,BFL, N352602 W1190329,Bakersfield,Airport,510,,200866,United States
+1449,KIAG,Niagara Falls International Airport,1,IAG, N430626 W0785646,Niagara Falls,Airport,589,1 582,197916,United States
+1454,KHLN,Helena Regional Airport,1,HLN, N463624 W1115859,Helena,Airport,3 877,2 743,194620,United States
+1460,KISN,Sloulin Field International Airport,,ISN, N481041 W1033831,Williston,Airport,1 982,,192156,United States
+1462,KBGM,Greater Binghamton Airport,,BGM, N421231 W0755847,Binghamton,Airport,1 636,,190420,United States
+1467,KLSE,La Crosse Regional Airport,1,LSE, N435245 W0911524,La Crosse,Airport,656,,188094,United States
+1468,KLYH,Lynchburg Regional Airport,,LYH, N371931 W0791204,Lynchburg,Airport,938,,187544,United States
+1469,KSPI,Abraham Lincoln Capital Airport,,SPI, N395039 W0894041,Springfield,Airport,598,2 439,186538,United States
+1470,KSCK,Stockton Metropolitan Airport,,SCK, N375339 W1212132,Stockton,Airport,33,,186152,United States
+1474,PHMK,Molokai Airport,1,MKK, N210910 W1570546,Kaunakakai,Airport,454,,185120,United States
+1475,PAEN,Kenai Municipal Airport,1,ENA, N603424 W1511442,Kenai,Airport,99,,184970,United States
+1488,KCMI,University of Illinois Willard Airport,1,CMI, N400221 W0881641,Champaign/Urbana,Airport,754,1 981,178636,United States
+1494,KCPR,Casper-Natrona County International Airport,1,CPR, N425447 W1062750,Casper,Airport,5 344,3 098,176026,United States
+1500,KTOL,Toledo Express Airport,,TOL, N413512 W0834828,Toledo,Airport,684,3 231,172442,United States
+1504,KABI,Abilene Regional Airport,,ABI, N322448 W0994059,Abilene,Airport,1 791,1 121,169618,United States
+1510,KFSM,Fort Smith Regional Airport,1,FSM, N352012 W0942203,Fort Smith,Airport,469,,167840,United States
+1514,PASI,Sitka Rocky Gutierrez Airport,1,SIT, N570250 W1352046,Sitka,Airport,26,,166808,United States
+1527,KBLV,MidAmerica St. Louis Airport,1,BLV, N383243 W0895007,Belleville,Airport,459,,159976,United States
+1528,PADQ,Kodiak Airport,1,ADQ, N574459 W1522938,Kodiak,Airport,80,2 296,159364,United States
+1532,KCLL,Easterwood Airport,1,CLL, N303519 W0962150,College Station,Airport,321,1 569,157814,United States
+1534,KHXD,Hilton Head Airport,,HHH, N321328 W0804151,Hilton Head Island,Airport,19,,156684,United States
+1536,KSUN,Friedman Memorial Airport,,SUN, N433014 W1141746,Hailey,Airport,5 318,,155458,United States
+1545,KNYL,Yuma International Airport,1,YUM, N323924 W1143622,Yuma,Airport,213,4 054,149484,United States
+1550,KLWS,Lewiston-Nez Perce County Airport,1,LWS, N462228 W1170054,Lewiston,Airport,1 442,,145448,United States
+1556,KACV,Arcata-Eureka Airport,,ACV, N405840 W1240629,Arcata/Eureka,Airport,222,,139464,United States
+1567,KSAF,Santa Fe Municipal Airport,1,SAF, N353702 W1060520,Santa Fe,Airport,6 348,2 550,131690,United States
+1572,KGRI,Central Nebraska Regional Airport,,GRI, N405803 W0981835,Grand Island,Airport,1 847,2 134,129204,United States
+1573,KFLG,Flagstaff Pulliam Airport,,FLG, N350825 W1114008,Flagstaff,Airport,7 014,,129156,United States
+1574,PAOT,Ralph Wien Memorial Airport,1,OTZ, N665305 W1623556,Kotzebue,Airport,14,1 798,128962,United States
+1575,KACT,Waco Regional Airport,1,ACT, N313641 W0971350,Waco,Airport,516,2 010,128712,United States
+1579,KMHK,Manhattan Regional Airport,,MHK, N390828 W0964018,Manhattan,Airport,1 066,,127522,United States
+1588,PAOM,Nome Airport,1,OME, N643044 W1652642,Nome,Airport,38,,121310,United States
+1590,KSJT,San Angelo Regional Airport,1,SJT, N312118 W1002946,San Angelo,Airport,1 919,2 453,120554,United States
+1592,KPGV,Pitt-Greenville Airport,,PGV, N353807 W0772307,Greenville,Airport,27,1 981,120040,United States
+1596,KSBY,Salisbury-Ocean City-Wicomico Regional Airport,,SBY, N382024 W0753034,Salisbury,Airport,53,1 951,117390,United States
+1599,KORH,Worcester Regional Airport,,ORH, N421602 W0715233,Worcester,Airport,1 009,2 134,115600,United States
+1610,KLAW,Lawton-Fort Sill Regional Airport,,LAW, N343404 W0982459,Lawton,Airport,1 110,,111052,United States
+1615,KMVY,Martha's Vineyard Airport,,MVY, N412335 W0703652,Martha's Vineyard,Airport,67,1 678,108168,United States
+1616,KYKM,Yakima Air Terminal,1,YKM, N463405 W1203238,Yakima,Airport,1 099,,107664,United States
+1617,KLCH,Lake Charles Regional Airport,,LCH, N300734 W0931324,Lake Charles,Airport,15,1 585,107152,United States
+1619,KFLO,Florence Regional Airport,1,FLO, N341107 W0794326,Florence,Airport,146,1 829,105222,United States
+1620,KTYR,Tyler Pounds Regional Airport,1,TYR, N322114 W0952410,Tyler,Airport,544,,104988,United States
+1630,PASC,Deadhorse Airport,1,SCC, N701141 W1482754,Deadhorse,Airport,64,1 981,102410,United States
+1631,KENV,Wendover Airport,1,ENV, N404307 W1140152,Wendover,Airport,4 237,,101468,United States
+1637,KDHN,Dothan Regional Airport,,DHN, N311916 W0854248,Dothan,Airport,401,2 590,98822,United States
+1641,KYNG,Youngstown-Warren Regional Airport,1,YNG, N411539 W0804045,Youngstown/Warren,Airport,1 196,1 525,95036,United States
+1644,KEAT,Pangborn Memorial Airport,,EAT, N472353 W1201222,Wenatchee,Airport,1 249,1 359,93674,United States
+1649,KCOU,Columbia Regional Airport,1,COU, N384905 W0921311,Columbia,Airport,889,,91428,United States
+1650,KSAW,Sawyer International Airport,1,MQT, N462113 W0872343,Marquette,Airport,1 221,3 770,90924,United States
+1651,PABR,Wiley Post-Will Rogers Memorial Airport,1,BRW, N711708 W1564558,Utqia???­vik,Airport,44,2 164,90600,United States
+1653,KCSG,Columbus Metropolitan Airport (Georgia),,CSG, N323059 W0845620,Columbus,Airport,397,,89626,United States
+1659,PAHO,Homer Airport,1,HOM, N593844 W1512837,Homer,Airport,84,2 042,88234,United States
+1662,KRDD,Redding Municipal Airport,1,RDD, N403032 W1221735,Redding,Airport,505,2 135,86828,United States
+1663,PHNY,Lanai Airport,,LNY, N204708 W1565704,Lanai City,Airport,1 308,,86550,United States
+1671,KROA,Roanoke-Blacksburg Regional Airport,,ROA, N371932 W0795832,Roanoke,Airport,1 175,,83800,United States
+1673,KGTR,Golden Triangle Regional Airport,,GTR, N332654 W0883529,Columbus/W Point/Starkville,Airport,264,,82280,United States
+1677,KVLD,Valdosta Regional Airport,1,VLD, N304653 W0831634,Valdosta,Airport,203,2 439,80550,United States
+1678,KSPS,Wichita Falls Municipal Airport,1,SPS, N335920 W0982931,Wichita Falls,Airport,1 019,,80330,United States
+1679,KSMX,Santa Maria Public Airport,1,SMX, N345356 W1202725,Santa Maria,Airport,261,2 440,80240,United States
+1683,KTWF,Magic Valley Regional Airport,,TWF, N422854 W1142917,Twin Falls,Airport,4 154,,77738,United States
+1685,KDBQ,Dubuque Regional Airport,,DBQ, N422407 W0904234,Dubuque,Airport,1 077,,75908,United States
+1687,KSGU,St. George Regional Airport,,SGU, N370211 W1133036,St George,Airport,2 884,2 835,75192,United States
+1690,PAKN,King Salmon Airport,1,AKN, N584035 W1563856,King Salmon,Airport,73,,73434,United States
+1692,KSUX,Sioux Gateway Airport,,SUX, N422409 W0962304,Sioux City,Airport,1 098,,72826,United States
+1694,KBQK,Brunswick Golden Isles Airport,,BQK, N311532 W0812759,Brunswick,Airport,26,2 439,72108,United States
+1699,KPUW,Pullman-Moscow Regional Airport,,PUW, N464438 W1170632,Pullman/Moscow,Airport,2 556,,70496,United States
+1702,KDIK,Dickinson Theodore Roosevelt Regional Airport,,DIK, N464750 W1024807,Dickinson,Airport,2 592,1 950,69958,United States
+1703,KHDN,Yampa Valley Airport,1,HDN, N402852 W1071305,Hayden,Airport,6 606,,69958,United States
+1704,KLUK,Cincinnati Municipal Lunken Airport,1,LUK, N390612 W0842507,Cincinnati,Airport,483,1 159,69380,United States
+1705,KPIH,Pocatello Regional Airport,1,PIH, N425435 W1123546,Pocatello,Airport,4 452,,68924,United States
+1708,KABY,Southwest Georgia Regional Airport,1,ABY, N312730 W0841130,Albany,Airport,196,,68452,United States
+1710,KBFI,Boeing Field,1,BFI, N473148 W1221807,Seattle,Airport,21,,67312,United States
+1712,PADL,Dillingham Airport,1,DLG, N590241 W1583022,Dillingham,Airport,81,,67232,United States
+1713,KTXK,Texarkana Regional Airport,,TXK, N332713 W0935928,Texarkana,Airport,390,,67130,United States
+1715,KGCC,Gillette-Campbell County Airport,,GCC, N442056 W1053220,Gillette,Airport,4 364,,65428,United States
+1716,KROW,Roswell International Air Center,1,ROW, N331806 W1043152,Roswell,Airport,3 671,3 963,65232,United States
+1723,PADU,Unalaska Airport,1,DUT, N535356 W1663242,Unalaska,Airport,22,,62110,United States
+1724,KHYA,Barnstable Municipal Airport,,HYA, N414010 W0701649,Hyannis,Airport,55,1 654,62054,United States
+1726,KGUC,Gunnison-Crested Butte Regional Airport,2,GUC, N383202 W1065559,Gunnison,Airport,7 680,,61560,United States
+1729,KPVU,Provo Municipal Airport,,PVU, N401309 W1114323,Provo,Airport,4 497,2 621,60180,United States
+1736,KBTM,Bert Mooney Airport,,BTM, N455717 W1122949,Butte,Airport,5 550,2 744,58980,United States
+1737,KALW,Walla Walla Regional Airport,1,ALW, N460541 W1181720,Walla Walla,Airport,1 194,,58128,United States
+1741,KCOD,Yellowstone Regional Airport,,COD, N443113 W1090126,Cody,Airport,5 102,2 520,57102,United States
+1742,KSGJ,Northeast Florida Regional Airport,,UST, N295733 W0812023,St Augustine,Airport,10,2 439,56924,United States
+1745,KHVN,Tweed New Haven Airport,,HVN, N411550 W0725312,New Haven,Airport,12,,55822,United States
+1749,KHGR,Hagerstown Regional Airport,,HGR, N394231 W0774335,Hagerstown,Airport,703,2 134,54548,United States
+1750,KALO,Waterloo Regional Airport,,ALO, N423325 W0922401,Waterloo,Airport,873,2 560,54138,United States
+1751,KGCK,Garden City Regional Airport,,GCK, N375539 W1004326,Garden City,Airport,2 891,2 225,53650,United States
+1754,KBPT,Jack Brooks Regional Airport,,BPT, N295703 W0940114,Beaumont/Port Arthur,Airport,15,2 057,53036,United States
+1757,KRKS,Rock Springs-Sweetwater County Airport,1,RKS, N413539 W1090354,Rock Springs,Airport,6 765,,51082,United States
+1758,KPLN,Pellston Regional Airport,1,PLN, N453415 W0844748,Pellston,Airport,720,1 985,50994,United States
+1759,KCMX,Houghton County Memorial Airport,,CMX, N471006 W0882921,Hancock,Airport,1 095,1 981,50878,United States
+1762,KPSM,Portsmouth International Airport at Pease,,PSM, N430441 W0704924,Portsmouth,Airport,100,3 451,48816,United States
+1763,KOWB,Owensboro-Daviess County Regional Airport,,OWB, N374420 W0871001,Owensboro,Airport,407,2 438,47074,United States
+1765,KIPT,Williamsport Regional Airport,1,IPT, N411430 W0765518,Williamsport,Airport,528,,46742,United States
+1766,KJLN,Joplin Regional Airport,,JLN, N370906 W0942954,Joplin,Airport,981,,46658,United States
+1767,KBJI,Bemidji Regional Airport,,BJI, N473039 W0945605,Bemidji,Airport,1 391,2 134,45638,United States
+1769,KGGG,East Texas Regional Airport,,GGG, N322302 W0944241,Longview,Airport,365,,44960,United States
+1773,KMLB,Orlando Melbourne International Airport,1,MLB, N280610 W0803843,Melbourne,Airport,33,3 103,44072,United States
+1774,PAPG,Petersburg James A. Johnson Airport,1,PSG, N564805 W1325646,Petersburg,Airport,113,1 951,43792,United States
+1775,KMMH,Mammoth Yosemite Airport,,MMH, N373727 W1185020,Mammoth Lakes,Airport,7 135,2 134,43652,United States
+1779,KEAU,Chippewa Valley Regional Airport,,EAU, N445157 W0912903,Eau Claire,Airport,913,2 469,42608,United States
+1781,KCIU,Chippewa County International Airport,1,CIU, N461503 W0842821,Sault Ste Marie,Airport,799,2 195,41948,United States
+1783,KRHI,Rhinelander-Oneida County Airport,,RHI, N453751 W0892759,Rhinelander,Airport,1 624,2 072,40828,United States
+1785,KPAH,Barkley Regional Airport,1,PAH, N370337 W0884623,Paducah,Airport,410,1 981,40532,United States
+1787,KABR,Aberdeen Regional Airport,1,ABR, N452653 W0982522,Aberdeen,Airport,1 302,2 103,40178,United States
+1791,KEKO,Elko Regional Airport,1,EKO, N404930 W1154731,Elko,Airport,5 140,2 199,39020,United States
+1794,PAMR,Merrill Field,1,MRI, N611249 W1495038,Anchorage,Airport,137,610,38288,United States
+1797,KART,Watertown International Airport,,ART, N435931 W0760114,Watertown,Airport,328,1 828,37636,United States
+1798,PACV,Merle K. (Mudhole) Smith Airport,1,CDV, N602930 W1452837,Cordova,Airport,54,2 286,37298,United States
+1802,KMKG,Muskegon County Airport,,MKG, N431004 W0861408,Muskegon,Airport,628,1 982,36330,United States
+1804,KLCK,Rickenbacker International Airport,1,LCK, N394850 W0825540,Columbus,Airport,744,3 689,35530,United States
+1805,KSHR,Sheridan County Airport,,SHR, N444609 W1065848,Sheridan,Airport,4 021,,35420,United States
+1806,KPGA,Page Municipal Airport,1,PGA, N365534 W1112653,Page,Airport,4 316,,34870,United States
+1808,KHOB,Lea County Regional Airport,1,HOB, N324115 W1031301,Hobbs,Airport,3 661,2 255,34492,United States
+1809,KBID,Block Island State Airport,1,BID, N411005 W0713440,Block Island,Airport,108,,34450,United States
+1810,KWST,Westerly State Airport,1,WST, N412059 W0714812,Westerly,Airport,81,,34436,United States
+1811,KRIW,Riverton Regional Airport,,RIW, N430351 W1082736,Riverton,Airport,5 528,,34070,United States
+1812,PAUN,Unalakleet Airport,1,UNK, N635318 W1604756,Unalakleet,Airport,21,1 798,33896,United States
+1813,KOTH,Southwest Oregon Regional Airport,1,OTH, N432502 W1241547,North Bend,Airport,17,1 622,33728,United States
+1814,KCIC,Chico Municipal Airport,1,CIC, N394743 W1215129,Chico,Airport,240,2 049,33670,United States
+1815,KESC,Delta County Airport,1,ESC, N454322 W0870537,Escanaba,Airport,609,1 981,33644,United States
+1817,KRKD,Knox County Regional Airport,1,RKD, N440336 W0690557,Rockland,Airport,56,,32412,United States
+1820,KSTC,St. Cloud Regional Airport,,STC, N453248 W0940336,St Cloud,Airport,1 031,,31684,United States
+1821,KINL,Falls International Airport,,INL, N483356 W0932408,International Falls,Airport,1 185,2 256,31592,United States
+1823,KBRD,Brainerd Lakes Regional Airport,,BRD, N462408 W0940808,Brainerd,Airport,1 232,2 164,31308,United States
+1826,KCYS,Cheyenne Regional Airport,,CYS, N410920 W1044840,Cheyenne,Airport,6 160,2 825,30020,United States
+1828,KPIR,Pierre Regional Airport,1,PIR, N442258 W1001710,Pierre,Airport,1 744,,29372,United States
+1831,KFMN,Four Corners Regional Airport,,FMN, N364428 W1081348,Farmington,Airport,5 506,1 981,28526,United States
+1834,PANI,Aniak Airport,1,ANI, N613454 W1593235,Aniak,Airport,89,,27376,United States
+1835,KLMT,Klamath Falls Airport,,LMT, N420922 W1214359,Klamath Falls,Airport,4 095,,26866,United States
+1844,PASM,St. Mary's Airport (Alaska),,KSM, N620339 W1631807,St Mary's,Airport,312,1 831,25702,United States
+1845,PAVD,Valdez Airport,1,VDZ, N610802 W1461453,Valdez,Airport,121,1 981,25262,United States
+1847,KIMT,Ford Airport (Iron Mountain),,IMT, N454906 W0880652,Iron Mountain / Kingsford,Airport,1 182,,25208,United States
+1850,PAWG,Wrangell Airport,1,WRG, N562904 W1322212,Wrangell,Airport,49,1 828,25138,United States
+1852,KPQI,Northern Maine Regional Airport at Presque Isle,1,PQI, N464120 W0680241,Presque Isle,Airport,534,,25052,United States
+1854,KFHR,Friday Harbor Airport,,FRD, N483119 W1230126,Friday Harbor,Airport,113,1 037,24762,United States
+1860,KHIB,Range Regional Airport,,HIB, N472312 W0925020,Hibbing,Airport,1 354,,23338,United States
+1869,KLEB,Lebanon Municipal Airport (New Hampshire),,LEB, N433734 W0721815,Lebanon,Airport,603,,21906,United States
+1870,KLWB,Greenbrier Valley Airport,,LWB, N375130 W0802358,Lewisburg,Airport,2 301,2 135,21698,United States
+1871,PAYA,Yakutat Airport,1,YAK, N593012 W1393936,Yakutat,Airport,33,1 974,21512,United States
+1872,KPIB,Hattiesburg-Laurel Regional Airport,1,PIB, N312802 W0892013,Hattiesburg/Laurel,Airport,298,1 982,21266,United States
+1873,KCLM,William R. Fairchild International Airport,1,CLM, N480713 W1233000,Port Angeles,Airport,291,1 935,21232,United States
+1874,PAGA,Edward G. Pitka Sr. Airport,1,GAL, N644410 W1565617,Galena,Airport,153,,21064,United States
+1875,KSHD,Shenandoah Valley Regional Airport,,SHD, N381550 W0785347,Staunton/Waynesboro/Harrisonburg,Airport,1 201,,20816,United States
+1876,KMGW,Morgantown Municipal Airport,1,MGW, N393834 W0795459,Morgantown,Airport,1 244,,20478,United States
+1878,KCKB,North Central West Virginia Airport,1,CKB, N391748 W0801341,Clarksburg,Airport,1 224,,20306,United States
+1880,KPVC,Provincetown Municipal Airport,1,PVC, N420419 W0701317,Provincetown,Airport,9,1 067,20148,United States
+1881,KMWA,Williamson County Regional Airport,,MWA, N374518 W0890040,Marion,Airport,472,2 439,20088,United States
+1882,KAPN,Alpena County Regional Airport,1,APN, N450441 W0833337,Alpena,Airport,690,2 744,20062,United States
+1888,KCEC,Del Norte County Airport,,CEC, N414649 W1241413,Crescent City,Airport,61,1 524,17334,United States
+1893,KUIN,Quincy Regional Airport,,UIN, N395634 W0911141,Quincy,Airport,769,2 163,15694,United States
+1903,KFOE,Topeka Regional Airport,,FOE, N385703 W0953949,Topeka,Airport,1 078,3 902,12102,United States
+1926,KILG,Wilmington Airport (Delaware),,ILG, N394043 W0753624,Wilmington,Airport,80,2 137,2086,United States
+1939,KCRQ,McClellan-Palomar Airport,,CLD, N330742 W1171648,Carlsbad,Airport,331,1 493,360,United States
+1948,KILG,Wilmington Airport (Delaware),,ILG, N394043 W0753624,Wilmington,Airport,80,2 137,2086,United States
+1961,KCRQ,McClellan-Palomar Airport,,CLD, N330742 W1171648,Carlsbad,Airport,331,1 493,360,United States

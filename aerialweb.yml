@@ -318,3 +318,5 @@ dependencies:
     - wcwidth==0.2.4
     - werkzeug==1.0.1
     - xlrd==1.2.0
+prefix: C:\Anaconda3\envs\aerialweb
+
